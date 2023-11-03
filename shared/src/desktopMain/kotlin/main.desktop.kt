@@ -10,3 +10,7 @@ actual fun getPlatformName(): String = "Desktop"
 fun AppPreview() {
     App()
 }
+@Preview
+@Composable
+fun TestComposable(){
+}
